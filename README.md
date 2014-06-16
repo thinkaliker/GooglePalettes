@@ -3,13 +3,13 @@ GooglePalettes
 
 What is this?
 -----
-I needed the color palette from the Google design guidelines (located [here](http://www.behance.net/gallery/Google-Visual-Assets-Guidelines-Part-1/9028077)) and decided to make my own preset.
+I needed the color palette from the Google design guidelines (located [here](http://www.behance.net/gallery/Google-Visual-Assets-Guidelines-Part-1/9028077)) and decided to make my own set of presets.
 
-What programs are supported?
+What programs can I use these with?
 -----
-Currently only Paint.NET and GIMP (Inkscape uses the same format as GIMP)
+Currently only Paint.NET and GIMP are supported. (Inkscape uses the same palette format as GIMP)
 
-However, if someone would like to figure out how to convert them to other formats, feel free to request a pull.
+However, if someone would like to figure out how to convert them to other formats, feel free to fork and I can merge it in.
 
 How do I install these palettes?
 -----
