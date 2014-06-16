@@ -18,7 +18,7 @@ How do I install these palettes?
 Please try [here](http://www.getpaint.net/doc/latest/WorkingWithPalettes.html)
 
 ### Inkscape
-Please try [here[(http://wiki.inkscape.org/wiki/index.php/Frequently_asked_questions#Does_Inkscape_support_palettes.3F_Where_can_I_.22store.22_and_save_colours_for_further_use.3F)
+Please try [here](http://wiki.inkscape.org/wiki/index.php/Frequently_asked_questions#Does_Inkscape_support_palettes.3F_Where_can_I_.22store.22_and_save_colours_for_further_use.3F)
 
 ### GIMP
 Please try [here](http://docs.gimp.org/en/gimp-palette-dialog.html)
