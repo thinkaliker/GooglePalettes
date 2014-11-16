@@ -4,6 +4,7 @@ GooglePalettes
 What is this?
 -----
 I needed the color palette from the Google design guidelines (located [here](http://www.behance.net/gallery/Google-Visual-Assets-Guidelines-Part-1/9028077)) and decided to make my own set of presets.
+These are pre-Material Design.
 
 What programs can I use these with?
 -----
